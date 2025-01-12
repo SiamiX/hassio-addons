@@ -8,7 +8,7 @@ webui: "http://[HOST]:[PORT:8090]/"
 watchdog: "http://[HOST]:[PORT:8090]/"
 init: false
 arch: 
-  - arm64
+  - aarch64
 map:
   - addon_config:rw
 startup: before
